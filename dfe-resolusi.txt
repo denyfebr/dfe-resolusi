@@ -2,3 +2,5 @@ DFE RESOLUSI
 - Konsisten membuat website pribadi setiap 2 kali seminggu
 - Belajar flutter
 - Membuat video tutorial
+- Membuat aplikasi candi-candi nusantara
+- Kolaborasi dengan mas Asisi
