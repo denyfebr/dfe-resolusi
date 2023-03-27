@@ -3,6 +3,7 @@ RENCANA KONTEN DFE
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur data dasar
 - PHP Framework Codeigniter
    ^ Laravel
