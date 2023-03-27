@@ -3,4 +3,4 @@ DFE RESOLUSI
 - Belajar flutter
 - Membuat video tutorial
 - Kolaborasi dengan mas Asisi
-- membuat aplikasi mobile flutter candi-candi nusantara
+- membuat aplikasi mobile flutter nosql candi-candi nusantara
