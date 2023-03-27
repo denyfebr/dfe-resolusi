@@ -4,6 +4,10 @@ RENCANA KONTEN DFE
   * Framework Javascript
    ^ Angular
    ^ React
+   ^ Vue
 - PHP Framework Codeigniter
   * Laravel
+- Struktur data dasar
+- PHP Framework Codeigniter
 - Flutter
+- Python
