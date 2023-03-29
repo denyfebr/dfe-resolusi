@@ -5,6 +5,7 @@ RENCANA KONTEN DFE
    ^ Angular
    ^ React
    ^ Vue
+   ^ Node.JS
 - PHP Framework Codeigniter
   * Laravel
 - Struktur data dasar
