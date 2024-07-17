@@ -1,0 +1,4 @@
+DEF RESOLUSI
+  - Konsisten untuk membuat konten 2 kali seminggu
+  - Membuat platform untuk pengelolaan video
+  - Membuat forum diskusi
